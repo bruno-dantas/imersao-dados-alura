@@ -1,2 +1,2 @@
 # imersao-dados-alura
-Desafios da 4ª imersão de dados Alura 
+Bom, este repositório contém os desafios da 4ª Imersão de Dados Alura!
