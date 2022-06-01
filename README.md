@@ -1,2 +1,2 @@
 # imersao-dados-alura
-Bom, este repositório contém os desafios da 4ª Imersão de Dados Alura!
+Repositório com alguns desafios da semana de imersão de dados Alura! (Não finalizado)
